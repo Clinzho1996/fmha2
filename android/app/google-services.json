@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614430523328",
+    "project_id": "fmhaeventcalendar",
+    "storage_bucket": "fmhaeventcalendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614430523328:android:23b987bd177d5acae0d225",
+        "android_client_info": {
+          "package_name": "com.fmhaeventcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614430523328-6vvkcv1dil1denenq5cs7ge04cgoq1an.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fmhaeventcalendar",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "614430523328-dv45ufu2ibk1otlim04rsacsuouh2r8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4Wu1eoRhkpyyhEINtz9EnB51JQvRP18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614430523328-dv45ufu2ibk1otlim04rsacsuouh2r8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
